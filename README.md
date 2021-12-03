@@ -1,3 +1,1 @@
-# 4spaces
-
-Site: https://4spaces.company/
+<h2>4spaces</h2>
